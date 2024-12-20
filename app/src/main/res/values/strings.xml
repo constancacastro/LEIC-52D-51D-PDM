@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Chelas Reversi</string>
+    <string name="activity_info_no_suitable_app">No Suitable App</string>
+    <string name="top_bar_go_back">Go Back</string>
+    <string name="top_bar_navigate_to_prefs">To Preferences</string>
+    <string name="lobby_title">Lobby</string>
+    <string name="game_screen_waiting">Waiting</string>
+    <string name="game_screen_your_turn">Your Turn!</string>
+    <string name="game_screen_opponent_turn">Opponent\'s Turn!</string>
+    <string name="game_screen_forfeit">Forfeit</string>
+    <string name="match_ended_dialog_text_tied_match">It´s a Draw!</string>
+    <string name="match_ended_dialog_text_local_won">Local Player Won!</string>
+    <string name="match_ended_dialog_text_opponent_won">Opponent Won!</string>
+    <string name="match_ended_ok_button">Ok</string>
+    <string name="match_ended_dialog_title">Match Ended</string>
+    <string name="starting_match_cancel_button">Cancel Match</string>
+    <string name="starting_match_dialog_title">Match is Starting</string>
+    <string name="starting_match_dialog_text">starting</string>
+    <string name="start_game_button_text">Start Game</string>
+    <string name="main_menu_authors">Authors Info</string>
+    <string name="favorite_games_button_text">Favorite Games</string>
+    <string name="preferences_screen_title">Preferences</string>
+    <string name="preferences_screen_nickname_tip">nickname</string>
+</resources>

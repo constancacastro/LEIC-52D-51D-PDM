@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254423407981",
+    "project_id": "reversi-chelas",
+    "storage_bucket": "reversi-chelas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254423407981:android:09aea2b1dee49be58f8e64",
+        "android_client_info": {
+          "package_name": "com.example.chelasreversi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0mVqe1vNwyTb0cK4sQW2tMWfZ-8HEuec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
