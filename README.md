@@ -1,4 +1,4 @@
-Trabalho B de PDM, Turma 52D
+Trabalho B de PDM
 
-Constança Castro, nº 50523 
-Guilherme Mouzinho, nº 50480
+Constança Castro, nº 50523, Turma 52D
+Guilherme Mouzinho, nº 50480, Turma 51D
